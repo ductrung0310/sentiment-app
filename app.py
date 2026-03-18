@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from underthesea import word_tokenize
 
-st.title("📱 AI Phân tích đánh giá APP (Final Demo)")
-st.write("Sentiment + Phân tích nguyên nhân (chuẩn tiếng Việt)")
+st.title("📱 AI Phân tích đánh giá bình luận APP")
+st.write("Sentiment + Phân tích nguyên nhân")
 
 # =========================
 # LOAD MODEL
